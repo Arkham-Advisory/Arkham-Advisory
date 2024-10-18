@@ -20,7 +20,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://arkham-advisory.github.io
+url: https://arkham-advisory.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -36,11 +36,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: mytwitter
+twitter: ArkhamAdvisory
 # instagram: myinstagram
-linkedin: mylinkedin
+linkedin: https://linkedin.com/company/arkham-advisory
 github: Arkham-Advisory
-email: myemail@gmail.com
+email: niels@arkham-advisory.com
 
 authors:
   niels:
